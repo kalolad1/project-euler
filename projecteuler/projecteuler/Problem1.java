@@ -1,4 +1,4 @@
-// Title: Multiples of 3 or 5
+package projecteuler;
 
 // Pseudo:
 /* sum = 0
